@@ -1,3 +1,11 @@
-.venv
-.vscode
+# Draw IO
+.drawio
+
+# Python
 __pycache__
+
+# Virtualenv
+.venv
+
+# VSCode
+.vscode
